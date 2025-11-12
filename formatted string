@@ -1,0 +1,6 @@
+#formatted string
+name = "sinchana r"
+age  = 18
+college = "shridevi"
+departament = "aiml"
+print(f"my name is: {name} my age is: {age} my college is: {college} my departament is: {departament}")
